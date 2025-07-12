@@ -1,0 +1,31 @@
+﻿services:
+  biogenom.api:
+    image: biogenom.api
+    build:
+      context: .
+      dockerfile: Biogenom.API/Dockerfile
+    ports:
+      - "8080:8080"
+    networks:
+      - biogenom-network
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: Biogenom
+    ports:
+      - "5432:5432"
+    networks:
+      - biogenom-network
+    volumes:
+      - postgres_data:/var/lib/postgres/data
+
+networks:
+  biogenom-network:
+    
+volumes:
+  postgres_data:

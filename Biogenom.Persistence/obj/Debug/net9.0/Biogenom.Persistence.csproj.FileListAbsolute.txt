@@ -1,0 +1,12 @@
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\bin\Debug\net9.0\Biogenom.Persistence.deps.json
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\bin\Debug\net9.0\Biogenom.Persistence.dll
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\bin\Debug\net9.0\Biogenom.Persistence.pdb
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.csproj.AssemblyReference.cache
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.AssemblyInfoInputs.cache
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.AssemblyInfo.cs
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.dll
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\refint\Biogenom.Persistence.dll
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\Biogenom.Persistence.pdb
+C:\Users\londelord\RiderProjects\Biogenom\Biogenom.Persistence\obj\Debug\net9.0\ref\Biogenom.Persistence.dll
